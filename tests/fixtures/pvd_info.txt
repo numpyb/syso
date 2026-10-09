@@ -1,0 +1,15 @@
+Drive current: -indev 'build/test.iso'
+PVD address  : 16s
+Volume Id    : TESTISO
+Volume Set Id: 
+Publisher Id : 
+Preparer Id  : XORRISO-1.5.8 2026.05.22.150001, LIBISOBURN-1.5.8, LIBISOFS-1.5.8, LIBBURN-1.5.8
+App Id       : 
+System Id    : 
+CopyrightFile: 
+Abstract File: 
+Biblio File  : 
+Creation Time: 2026091504412600
+Modif. Time  : 2026091504412600
+Expir. Time  : 0000000000000000
+Eff. Time    : 0000000000000000

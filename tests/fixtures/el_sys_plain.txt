@@ -1,0 +1,35 @@
+El Torito catalog  : 36  1
+El Torito cat path : /isolinux/boot.cat
+El Torito images   :   N  Pltf  B   Emul  Ld_seg  Hdpt  Ldsiz         LBA
+El Torito boot img :   1  BIOS  y   none  0x0000  0x00      4         181
+El Torito boot img :   2  UEFI  y   none  0x0000  0x00    576          37
+El Torito img path :   1  /isolinux/isolinux.bin
+El Torito img opts :   1  boot-info-table isohybrid-suitable
+El Torito img path :   2  /boot/grub/efi.img
+System area options: 0x00000102
+System area summary: MBR isohybrid cyl-align-on GPT
+ISO image size/512 : 2048
+Partition offset   : 0
+MBR heads per cyl  : 64
+MBR secs per head  : 32
+MBR partition table:   N Status  Type        Start       Blocks
+MBR partition      :   1   0x80  0x00            0         2048
+MBR partition      :   2   0x00  0xef          148          576
+MBR partition path :   2  /boot/grub/efi.img
+GPT                :   N  Info
+GPT disk GUID      :      7274f6319293814295be4525d2b5add6
+GPT entry array    :      2  248  overlapping
+GPT lba range      :      64  1984  2047
+GPT partition name :   1  490053004f00480079006200720069006400
+GPT partname local :   1  ISOHybrid
+GPT partition GUID :   1  7274f6319293814295bf4525d2b5add6
+GPT type GUID      :   1  a2a0d0ebe5b9334487c068b6b72699c7
+GPT partition flags:   1  0x1000000000000001
+GPT start and size :   1  0  1984
+GPT partition name :   2  490053004f004800790062007200690064003100
+GPT partname local :   2  ISOHybrid1
+GPT partition GUID :   2  7274f6319293814295bc4525d2b5add6
+GPT type GUID      :   2  a2a0d0ebe5b9334487c068b6b72699c7
+GPT partition flags:   2  0x1000000000000001
+GPT start and size :   2  148  576
+GPT partition path :   2  /boot/grub/efi.img

@@ -1,0 +1,11 @@
+xorriso 1.5.8.pl02 : RockRidge filesystem manipulator, libburnia project.
+
+xorriso : NOTE : Loading ISO image tree from LBA 0
+xorriso : UPDATE :       1 nodes read in 1 seconds
+Drive current: -indev '/tmp/opencode/plain.iso'
+Media current: stdio file, overwriteable
+Media status : is written , is appendable
+Media summary: 1 session, 34 data blocks, 68.0k data, 8816m free
+Volume id    : 'DATA'
+xorriso : NOTE : No El Torito information was loaded
+xorriso : NOTE : No System Area was loaded

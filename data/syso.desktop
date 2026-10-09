@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=syso
+Name[en]=syso
+Comment=Bootable ISO workbench: probe, explode, edit, repack
+Exec=/home/numpyb/.storage1/projects/apps/syso/.venv/bin/python -m syso
+Terminal=false
+Categories=Utility;System;GTK;
+Keywords=iso;boot;xorriso;preseed;grub;syslinux;
+
+# Optional icon (drop an svg/png here and uncomment):
+# Icon=/home/numpyb/.storage1/projects/apps/syso/data/syso.png

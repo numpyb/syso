@@ -1,0 +1,6 @@
+drwx------    1 1000     1000            0 Sep 14 23:41 '/'
+drwxr-xr-x    1 1000     1000            0 Sep 14 23:41 '/boot'
+-rw-r--r--    1 1000     1000       131072 Sep 14 23:41 '/initrd'
+drwxr-xr-x    1 1000     1000            0 Sep 14 23:41 '/isolinux'
+drwxr-xr-x    1 1000     1000            0 Sep 14 23:41 '/preseed'
+-rw-r--r--    1 1000     1000        65536 Sep 14 23:41 '/vmlinuz'
